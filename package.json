@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/maquilon/TypescriptReact#readme",
   "dependencies": {
+    "@types/react": "^16.1.0",
+    "@types/react-dom": "^16.0.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
     "ts-loader": "^4.1.0",
     "webpack": "^4.3.0"
   }
