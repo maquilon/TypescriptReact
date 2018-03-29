@@ -1,2 +1,2 @@
 # TypescriptReact
-TypeScript
+Using TypeScript with React
