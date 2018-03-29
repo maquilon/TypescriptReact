@@ -4,7 +4,8 @@
   "description": "TypeScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demots": "webpack"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/maquilon/TypescriptReact/issues"
   },
-  "homepage": "https://github.com/maquilon/TypescriptReact#readme"
+  "homepage": "https://github.com/maquilon/TypescriptReact#readme",
+  "dependencies": {
+    "ts-loader": "^4.1.0",
+    "webpack": "^4.3.0"
+  }
 }
